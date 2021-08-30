@@ -1,5 +1,6 @@
 # LeagueBoard
-League of Legends dashboard with information about a player.
+A League of Legends App with gamers in mind.
+Contains a dashboard with information about a player & recent match information.
 Able to follow people to recieve notifications of their posts in the forum.
 Topics section where you can create, reply, or delete threads.
 Scrimmage section where you can create a new match to be played in the future.
