@@ -19,7 +19,7 @@ Scrimmage section where you can create a new match to be played in the future.
     * npm --prefix ./client run start
     * npm --prefix ./server run start
 
-## (If) you followed the instructions above & upon login/register page of the app you should see something very similar to image below:
+## If you followed the instructions above & upon login/register page of the app you should see something very similar to image below:
 ![zero (2)](https://user-images.githubusercontent.com/80363302/131539843-91c476ac-a370-4b03-af7b-de9d13a7f7f3.png)
 
 
