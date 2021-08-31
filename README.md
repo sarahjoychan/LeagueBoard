@@ -11,9 +11,17 @@ Scrimmage section where you can create a new match to be played in the future.
     * npm --prefix ./client run install
   2. In the server folder, create a .env file using the .env_example file.
   3. Repeat step 2 in the client folder
-  4. Run the next command: 
+  4. You will need a Valid Riot api key. 
+     If you do not have one then go to https://developer.riotgames.com/
+     -create a account or login & go to APIS to generate your api key
+     (-Note- To best view the app & its features you should already be a League of Lengends player) 
+  5. Now Run the next commands: 
     * npm --prefix ./client run start
     * npm --prefix ./server run start
+
+## (If) you followed the instructions above & upon login/register page of the app you should see something very similar to image below:
+![zero (1)](https://user-images.githubusercontent.com/80363302/131539139-ebc19700-9e22-405b-b967-f816b0f1e60b.png)
+
 
 
 ## Tech Stack
